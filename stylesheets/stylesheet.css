@@ -55,7 +55,7 @@ a {
 
 .page-header {
   color: #000;
-  text-align: right;
+  text-align: end;
   vertical-align: bottom;
   /*background-color: #159957;*/
   background-image: url(greencom_logo_large.png);
